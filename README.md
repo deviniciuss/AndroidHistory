@@ -11,7 +11,7 @@ Website about technology curiosities, histories and news!
 <img src="https://github.com/deviniciuss/TechnologyCuriosities/blob/main/imagens/sample-mobile.gif" width="200" height="300" />
 
 ## Installation
-Use this link for visualization of the project 
+Use this link for visualization of the project: https://deviniciuss.github.io/TechnologyCuriosities/
 
 
 ## Support
