@@ -8,7 +8,7 @@
 }
 
 :root {
-    --color0: #ebe5c5;
+    --color0: #d8e2dc;
     --color1: #83E1AD;
     --color2: #3DDC84;
     --color3: #2FA866;
@@ -201,7 +201,7 @@ footer{
     background-color: var(--color5);
     color: white;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1em;
     padding: 5px;
 }
 
