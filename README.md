@@ -10,7 +10,7 @@ Website about technology curiosities, histories and news!
 ![Alt Text](https://github.com/deviniciuss/TechnologyCuriosities/blob/main/imagens/sample-pc.gif) 
 <img src="https://github.com/deviniciuss/TechnologyCuriosities/blob/main/imagens/sample-mobile.gif" width="200" height="300" />
 
-## Installation
+## Visuals
 Use this link for visualization of the project: https://deviniciuss.github.io/TechnologyCuriosities/
 
 
